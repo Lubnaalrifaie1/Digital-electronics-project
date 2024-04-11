@@ -1,4 +1,4 @@
-# **Digital Electronics Project**
+# **Number of Factors**
 
 - The factors will be recognised by this circuit. It would be somewhere between zero and fifteen. When a number is a factor of another number, it means that the first number must completely divide the second number without leaving any residue.
 - To put it another way, if a number If any number (divisor) is exactly divisible by (dividend), then the divisor is a factor of that number.
