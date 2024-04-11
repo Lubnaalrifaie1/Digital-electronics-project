@@ -1,1 +1,1 @@
-# CP220-Assignments
+# **Digital Electronics Project**
